@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   check.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: hfleites <hfleites@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/22 02:34:36 by hfleites          #+#    #+#             */
-/*   Updated: 2026/03/22 04:17:23 by hfleites         ###   ########.fr       */
+/*   Updated: 2026/03/22 16:22:04 by ahnidyy-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,10 +44,10 @@ int	dic_check(int argc, char **argv)
 
 	readed = read(fd, buf, read_bytes);
 	if (argc == 2)
-		fb = open(argv[1], O_RDONLY);
+		fd = open(argv[1], O_RDONLY);
 	if (argc == 3)
-		fb = open(argv[2], O_RDONLY);
-	if (fb == -1)
+		fd = open(argv[2], O_RDONLY);
+	if (fd == -1)
 		return (0);
 	while (readed > 0)
 		read_bytes += readed;
