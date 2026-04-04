@@ -3,9 +3,9 @@
 This repository contains the technical challenges and projects developed during the 42 Málaga selection intensive (Piscine). Over 4 weeks of high-intensity immersion (12h+/day), I focused on low-level programming in C and Unix/Linux system logic.
 Technical Highlights
 
-    White-Box Testing Mindset: Leveraging my 6 years as a QA Analyst, I approached every exercise by identifying edge cases, memory leaks, and logic flaws before submission.
+  White-Box Testing Mindset: Leveraging my 6 years as a QA Analyst, I approached every exercise by identifying edge cases, memory leaks, and logic flaws before submission.
 
-    The Norme Compliance: 100% of the code adheres to 42's strict coding standard, ensuring high maintainability, zero global variables, and re-engineering logic from scratch.
+  The Norme Compliance: 100% of the code adheres to 42's strict coding standard, ensuring high maintainability, zero global variables, and re-engineering logic from scratch.
 
     Peer-to-Peer Review: Conducted 50+ peer-evaluations, acting as a code reviewer to validate logic, memory integrity, and optimization for other candidates.
 
