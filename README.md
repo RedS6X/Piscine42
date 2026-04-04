@@ -1,23 +1,35 @@
-# 42 Málaga - Piscine (March 2026) 🌊💻
+Tienes razón, me he quedado a medias. Para un perfil con 6 años de experiencia, los iconos deben ser sobrios y profesionales, no una colección de emojis de colores que distraigan del contenido técnico.
 
-This repository contains my progress and projects developed during the **42 Málaga selection intensive (Piscine)**. Over 4 weeks, I dedicated **200+ hours** to mastering low-level programming in C and system logic in Shell.
+Aquí tienes la versión refinada, eliminando los emojis innecesarios y usando un estilo más "Enterprise":
+42 Málaga | C Piscine (March 2026)
 
-## 🚀 Key Highlights
-- **100% Peer-to-Peer Learning:** No teachers, no classes. Solved complex problems through collaboration and deep research.
-- **Strict Compliance:** All code follows "The Norm" (42's strict coding standard), focusing on memory integrity and efficiency.
-- **QA Mindset:** Applied my background as a QA Analyst to debug logic and handle edge cases in every exercise.
+This repository contains the technical challenges and projects developed during the 42 Málaga selection intensive (Piscine). Over 4 weeks of high-intensity immersion (12h+/day), I focused on low-level programming in C and Unix/Linux system logic.
+Technical Highlights
 
-## 📂 Project Structure
-- **C00 - C06:** Foundations of C, from standard output to pointer arithmetic and string manipulation.
-- **Shell00 - Shell01:** Advanced command-line operations and script automation.
-- **Rushes (Weekend Group Projects):**
-  - **Rush 00 & 01:** Successfully implemented logic for grid patterns and mathematical puzzles.
-  - **Rush 02:** A deep dive into file descriptors and dynamic memory. Although time constraints prevented a 100% functional result, it was a masterclass in **debugging complex C structures** and team coordination under pressure.
+    White-Box Testing Mindset: Leveraging my 6 years as a QA Analyst, I approached every exercise by identifying edge cases, memory leaks, and logic flaws before submission.
 
-## 🛠️ Skills Acquired
-- **Languages:** C, Zsh/Bash.
-- **Tools:** Vim, Git, GCC, Valgrind.
-- **Concepts:** Pointer arithmetic, Stack vs Heap, File Descriptors, Makefile.
+    The Norme Compliance: 100% of the code adheres to 42's strict coding standard, ensuring high maintainability, zero global variables, and re-engineering logic from scratch.
 
------
-*“In 42, failure is just a step towards the solution. This repository reflects my journey from 'Hello World' to complex algorithmic logic.”*
+    Peer-to-Peer Review: Conducted 50+ peer-evaluations, acting as a code reviewer to validate logic, memory integrity, and optimization for other candidates.
+
+Project Roadmap
+
+    C00 - C06: Foundations of C. Implementation of standard library functions, pointer arithmetic, string manipulation, and recursive algorithms.
+
+    Shell00 - Shell01: Advanced Unix command-line operations, environment configuration, and script automation (Zsh/Bash).
+
+    The Rushes (Weekend Sprints):
+
+        Rush 00 & 01: Collaborative logic implementation for grid patterns and mathematical puzzles.
+
+        Rush 02: Advanced file descriptor handling and dynamic memory allocation. While the final implementation was partial due to time constraints, it served as an intensive masterclass in debugging complex C structures and team coordination under extreme pressure.
+
+Tech Stack & Tooling
+
+    Languages: C, Shell (Zsh/Bash).
+
+    Environment: Vim, Git, GCC, Valgrind (Memory leak detection), Makefiles.
+
+    Key Concepts: Pointer arithmetic, Stack vs. Heap management, File Descriptors, Algorithmic complexity.
+
+    "In 42, the code is either perfect or it fails. This repository reflects my transition from high-level QA to low-level technical engineering."
