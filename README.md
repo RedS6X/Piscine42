@@ -1,22 +1,27 @@
-# 42 Málaga | C Piscine (March 2026)
+42 Málaga | C Piscine (March 2026)
 
-This repository contains the technical challenges and projects developed during the **42 Málaga** selection intensive (Piscine). Over 4 weeks of high-intensity immersion (12h+/day), I focused on low-level programming in **C** and **Unix/Linux** system logic.
+This repository contains technical exercises completed during the 42 Málaga Piscine, an intensive 4-week programming selection focused on C and Unix/Linux systems.
 
-### Technical Highlights
-* **White-Box Testing Mindset:** Leveraging my 6 years as a QA Analyst, I approached every exercise by identifying edge cases, memory leaks, and logic flaws before submission.
-* **The Norme Compliance:** 100% of the code adheres to 42's strict coding standard, ensuring high maintainability, zero global variables, and re-engineering logic from scratch.
-* **Peer-to-Peer Review:** Conducted **50+ peer-evaluations**, acting as a code reviewer to validate logic, memory integrity, and optimization for other candidates.
+The main objective was to build strong foundations in low-level programming, memory management, and algorithmic thinking under strict constraints and time pressure.
 
-### Project Roadmap
-* **C00 - C06:** Foundations of C. Implementation of standard library functions, pointer arithmetic, string manipulation, and recursive algorithms.
-* **Shell00 - Shell01:** Advanced Unix command-line operations, environment configuration, and script automation (Zsh/Bash).
-* **The Rushes (Weekend Sprints):**
-  * **Rush 00 & 01:** Collaborative logic implementation for grid patterns and mathematical puzzles.
-  * **Rush 02:** Advanced file descriptor handling and dynamic memory allocation. While the final implementation was partial due to time constraints, it served as an intensive masterclass in **debugging complex C structures** and team coordination under extreme pressure.
+## Technical Focus
 
-### Tech Stack & Tooling
-* **Languages:** C, Shell (Zsh/Bash).
-* **Environment:** Vim, Git, GCC, Valgrind (Memory leak detection), Makefiles.
-* **Key Concepts:** Pointer arithmetic, Stack vs. Heap management, File Descriptors, Algorithmic complexity.
+- Applied a QA-oriented mindset when solving problems, focusing on edge cases, input validation, and logical correctness before submission.
+- Followed strict 42 coding standards (Norme), reinforcing clean code discipline, memory safety, and constraint-driven development.
+- Participated in peer review sessions, evaluating and validating other candidates’ code for logic correctness and memory integrity.
 
-> *"In 42, the code is either perfect or it fails. This repository reflects my transition from high-level QA to low-level technical engineering."*
+## Project Coverage
+
+- C00–C06: Core C programming fundamentals including functions, pointers, strings, recursion, and memory handling.
+- Shell00–Shell01: Unix/Linux command-line usage, scripting, and environment configuration.
+- Rush Projects: Collaborative problem-solving under time constraints, focusing on debugging, memory management, and team coordination.
+
+## Tech Stack
+
+- Languages: C, Shell (Bash/Zsh)
+- Tools: GCC, Make, Vim, Git, Valgrind
+- Concepts: Memory management, pointers, file descriptors, stack vs heap, algorithmic thinking
+
+## Key Takeaway
+
+This experience strengthened my understanding of low-level system behavior, debugging practices, and structured problem-solving—skills directly transferable to backend validation and QA automation environments.
